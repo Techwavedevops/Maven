@@ -8,6 +8,6 @@
     <body>
         <h1> Good Day </h1>
         <h1> Techwave Welcomes You </h1>
-         
+        <img src="pulpitrock.jpg" alt="Mountain View">
     </body>
 </html>
