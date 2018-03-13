@@ -6,11 +6,8 @@
         <title>Hello Java EE 70 Continuous Delivery!</title>
     </head>
     <body>
-        <h1> GOOD DAY </h1>
+        <h1> BAD DAY </h1>
         <h1> Techwave Welcomes You </h1>
-        <h1> This is the First step </h1>
-        <h1> I want to check if it works </h1>
-        <h1> Final Test </h1>
-      
+         
     </body>
 </html>
