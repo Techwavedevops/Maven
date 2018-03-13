@@ -9,5 +9,6 @@
         <h1> Good Day </h1>
         <h1> Techwave Welcomes You </h1>
         <h1> TO IBM Think 2018 </h1>
+		<img src="../Image/Logo.jpg" alt="Techwave" >
         </body>
 </html>
