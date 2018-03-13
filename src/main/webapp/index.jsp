@@ -9,6 +9,6 @@
         <h1> Good Day </h1>
         <h1> Techwave Welcomes You </h1>
         <h1> TO IBM Think 2018 </h1>
-        <h1> IBM Think 2018 / Green Environment</h1>
+        <h1> IBM Think 2018 / Green Environment Dev Release</h1>
         </body>
 </html>
