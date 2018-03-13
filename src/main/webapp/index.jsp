@@ -8,6 +8,5 @@
     <body>
         <h1> Good Day </h1>
         <h1> Techwave Welcomes You </h1>
-        <img src="Maven/pulpitrock.jpg" alt="Mountain View" width="500" height="377">
-    </body>
+        </body>
 </html>
