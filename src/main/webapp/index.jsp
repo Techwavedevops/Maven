@@ -8,6 +8,6 @@
     <body>
         <h1> Good Day </h1>
         <h1> Techwave Welcomes You </h1>
-        <img src="../../../pulpitrock.jpg" alt="Mountain View" width="500" height="377">
+        <h1> TO IBM Think 2018 </h1>
         </body>
 </html>
