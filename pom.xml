@@ -5,7 +5,7 @@
     <artifactId>DEMO</artifactId>
     <version>2.0</version>
     <packaging>war</packaging>
-    <name>myproject</name>
+    <name>Techwave Project</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -25,20 +25,20 @@
     </scm>
     <developers>
         <developer>
-            <name>Arun Gupta</name>
-            <email>arun.gupta@gmail.com</email>
+            <name>Vishal</name>
+            <email>vishal.patnala@gmail.com</email>
         </developer>
     </developers>
     <distributionManagement>
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://169.38.101.35/home</url>
+            <url>http://localhost/home</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://169.38.101.35/home</url>
+            <url>http://localhost/home</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
