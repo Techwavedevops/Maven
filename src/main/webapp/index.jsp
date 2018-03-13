@@ -6,7 +6,7 @@
         <title>Hello Java EE 70 Continuous Delivery!</title>
     </head>
     <body>
-        <h1> BAD DAY </h1>
+        <h1> Good Day </h1>
         <h1> Techwave Welcomes You </h1>
          
     </body>
