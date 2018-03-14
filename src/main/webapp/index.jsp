@@ -13,7 +13,7 @@
         </body>
 	<style>
 body {
-    background-color: #24292e;
+    background-color: #33C9FF;
 }
 
 h1 {
