@@ -6,7 +6,7 @@
         <title>IBM Think Summit!</title>
     </head>
     <body>
-	<img src="Logo.jpg" alt="Techwave">
+	<img src="Logo.jpg" alt="Techwave" align="middle">
         <h1> Techwave Welcomes You To </h1>
         <h1> IBM Think 2018 / Blue Environment Master Release</h1>   
 		
