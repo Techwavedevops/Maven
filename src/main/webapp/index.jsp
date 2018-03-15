@@ -9,7 +9,6 @@
 	<img src="Logo.jpg" alt="Techwave" style="margin-left:650px">
         <h1> Techwave Welcomes You To </h1>
         <h1> IBM Think 2018 / Blue Environment Release..</h1>   
-	<h2> Ravindra </h2>
         </body>
 	<style>
 body {
