@@ -8,12 +8,12 @@
     <body>
 	<img src="Logo.jpg" alt="Techwave" style="margin-left:649px">
         <h1> Techwave Welcomes You </h1>
-        <h1> IBM Think 2018.. Green Environment</h1>   
+        <h1> IBM Think 2018.. Production Environment</h1>   
 		
         </body>
 	<style>
 body {
-    background-color: #4DFF33;
+    background-color: #blue;
 }
 h1 {
     color: black;
