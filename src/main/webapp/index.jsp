@@ -12,7 +12,7 @@
         </body>
 	<style>
 body {
-    background-color: #33C9FF;
+    background-color: #008000;
 }
 
 h1 {
