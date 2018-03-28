@@ -1,6 +1,2 @@
-# maven
-
-
-new java code added
-good day
-# Maven
+# IBM THINK 2018
+# JAVA Code Build & Deployment
