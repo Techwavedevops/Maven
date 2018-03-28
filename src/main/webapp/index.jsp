@@ -7,7 +7,7 @@
     </head>
     <body>
 	<img src="Logo.jpg" alt="Techwave" style="margin-left:650px">
-        <h1> Techwave Welcomes You</h1>
+        <h1> Techwave Welcomes</h1>
         <h1> IBM Think 2018 Prod Environment Release</h1>   
         </body>
 	<style>
